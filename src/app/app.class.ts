@@ -1,0 +1,3 @@
+class ItemsResponse {
+  ip: string;
+}
